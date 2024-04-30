@@ -1,7 +1,5 @@
-
+//ESto esta vacio lo voy a rellenar compañero.
 public class Main {
-	private void sysout() {
-		// TODO Auto-generated method stub
-
-	}
+	int x = 10;
+	System.out.println(x);
 }
